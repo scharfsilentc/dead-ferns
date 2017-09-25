@@ -1,0 +1,76 @@
+body {
+    background: rgb(200,245,215);
+    color: rgb(22,22,22);
+    font-family:'Open Sans', sans-serif;
+}
+header{
+    background: rgba(255,255,255,.8) url("images/prettyplants.jpg") no-repeat;
+    margin: 50px;
+    padding: 150px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px rgb(240,240,240);
+    
+}
+nav {
+    margin-top: 350px;
+    margin-left: 400px;
+    font-size: 50px;
+}
+
+section{
+    margin: 50px;
+    margin-top: 60px;
+    padding: 50px;
+    background: rgba(255,255,255,.8)
+}
+section #intro p {
+    float: left;
+}
+footer {
+    margin: 20px;
+    padding: 30px;
+}
+
+h1 {
+    color: rgb(105,155,103);
+    font-size: 50px;
+    font-family:'Roboto', sans-serif;
+}
+
+
+h2 {
+    font-size: 17px;
+}
+
+h3 {
+    color: rgb(10, 100, 10);
+    font-style: italic;
+    font-size: 15px;
+}
+h4 {
+    font-size: 14px;
+    font-weight: normal;
+}
+div {
+    font-size: 14px;
+    font-weight: lighter;
+}
+a {
+    color: rgb(250,250,250);
+    text-decoration: none
+}
+a:hover {
+    background: rgb(255,255,255);
+    color: rgb(105,155,103);
+}
+
+img {
+    width: 500px;
+    margin-left: 500px;
+}
+
+footer {
+    background: rgb(140,160,150);
+    color: rgb(200,245,215);
+    font-weight: lighter
+}
